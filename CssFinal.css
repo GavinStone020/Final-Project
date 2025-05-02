@@ -21,8 +21,11 @@
 			
 			text-align:center;
 			}
+			
 
-			nav ul {padding: 1em; 
+
+
+			nav ul {padding: 0.5em; 
 
 			float: left; 
 			font-weight: bold; 
@@ -51,14 +54,14 @@
 				padding-top: 1px;
 				border: 2px solid;
 				background-color: #B1C381;
-				color: #E8EFCF; 
+				color: #FFFFFF; 
 
 				}
 
 			nav {
 				background: linear-gradient(#FFFFFF, #F6F7C4);
 				
-				font-size: 1.4em;
+				font-size: 1.2em;
 				grid-row: 2 / 4; 
 				grid-column: 1 / span 2;
 				border: 2px solid;}
@@ -122,6 +125,24 @@
 				border: 2px solid;
 				background: linear-gradient(#FFFFFF, #F6F7C4);
 				}
+				
+			#s4 {grid-row: 2 / 3; 
+				grid-column: 3 / span 10;
+				
+				padding: 10px;
+				border: 2px solid;
+				background: linear-gradient(#FFFFFF, #F6F7C4);
+				}
+				
+			#s5 {grid-row: 3 / 4; 
+				grid-column: 3 / span 10;
+				padding: 10px;
+				border: 2px solid;
+				background: linear-gradient(#FFFFFF, #F6F7C4);
+				
+				}
+
+
 				
 			footer {grid-row: 4 / 5; 
 				grid-column: 1 / span 12;
