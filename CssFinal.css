@@ -1,5 +1,5 @@
 			body { 
-				background-image: url(https://gavinstone020.github.io/Final-Project/bg-image1.jpg);
+				background-image: url(assets/bg-image1.jpg);
 				background-repeat: no-repeat;
 				height: 100%;
 				width: 100%;
@@ -44,7 +44,7 @@
 			nav a:hover {
 			color: #000000;	
 			}
-			
+
 			header {
 				
 				grid-row: 1 / 2; 
@@ -60,15 +60,23 @@
 
 			nav {
 				background: linear-gradient(#FFFFFF, #F6F7C4);
-				
+				grid-column: 1 / span 2;
 				font-size: 1.2em;
 				grid-row: 2 / 4; 
-				grid-column: 1 / span 2;
+				
 				border: 2px solid;}
+				#n1 {
+				grid-row: 2 / 4; 
+				}
+				#n2 {
+					grid-row: 2 / 10;
+										
+				}
 				
 				nav li {
 					list-style-type: none;
 					font-family: Verdana;
+					
 				}
 				
 			h3  {
@@ -141,10 +149,31 @@
 				background: linear-gradient(#FFFFFF, #F6F7C4);
 				
 				}
-
-
 				
-			footer {grid-row: 4 / 5; 
+				#s6 {grid-row: 4 / 10; 
+				grid-column: 3 / span 10;
+				padding: 10px;
+				border: 2px solid;
+				background: linear-gradient(#FFFFFF, #F6F7C4);
+				
+				}
+
+
+				#f2 {
+				grid-row: 10 / 11; 
+				grid-column: 1 / span 12;
+				background: linear-gradient(#FFFFFF, #a2c4c9);
+				padding:10px;
+				border: 2px solid;	
+				}
+				.images {
+					width: 220px;
+					height: 220px;
+				}
+			#f1 {
+	`		grid-row: 4 / 5; 
+			}				
+			footer {
 				grid-column: 1 / span 12;
 				background: linear-gradient(#FFFFFF, #a2c4c9);
 				padding:10px;
