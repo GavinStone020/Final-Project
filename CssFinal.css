@@ -72,6 +72,9 @@
 					grid-row: 2 / 10;
 										
 				}
+				#ns {
+					line-height: 2.6;
+				}
 				
 				nav li {
 					list-style-type: none;
