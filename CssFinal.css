@@ -5,6 +5,8 @@
 				width: 100%;
 				 background-position: center;
 				 background-size: cover;
+				 display: table-cell;
+				 background-attachment: fixed;
 				padding: 39px;
 				margin: 0;
 				height: 600px;
@@ -14,9 +16,8 @@
 				grid-template-columns: repeat(12, 1fr);
 				margin-top: 2em;
 				grid-gap:16px;}
-			#wrapper {
-			background-color: #F6F7C4;				
-			}
+			
+			
 			#overheader {
 			
 			text-align:center;
@@ -45,6 +46,14 @@
 			color: #000000;	
 			}
 
+			section p {
+				font-family: Verdana;
+			}
+			
+			.overall {
+			color: #18230F;	
+			}
+			
 			header {
 				
 				grid-row: 1 / 2; 
@@ -170,8 +179,9 @@
 				border: 2px solid;	
 				}
 				.images {
-					width: 220px;
-					height: 220px;
+					width: 320px;
+					height: 320px;
+					float: right;
 				}
 			#f1 {
 	`		grid-row: 4 / 5; 
