@@ -242,4 +242,11 @@
 				font-size: 1em;
 				grid-row: 1 / 2; 
 			}
+				#n1 {
+				grid-row: 1 / 2; 
+				}
+				#n2 {
+					grid-row: 1 / 2;
+										
+				}
 			}
