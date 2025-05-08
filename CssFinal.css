@@ -206,3 +206,26 @@
 				background: linear-gradient(#FFFFFF, #a2c4c9);
 				padding:10px;
 				border: 2px solid;}
+
+			@media only screen and (max-width: 37.5em){
+			nav ul {padding: 0em; 
+
+			float: none; 
+ 
+			list-style: none; 
+			}
+			nav a {
+			text-decoration: none;
+			position: static;
+			}
+			nav a:link { 
+			color: #00664D;
+			}
+			nav a:visited {
+			color: #7A7A52;
+			}
+			nav a:hover {
+			color: #000000;	
+			}
+
+			}
