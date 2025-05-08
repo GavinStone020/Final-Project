@@ -236,11 +236,16 @@
 				padding: 0px;
 				padding-top: 0px;
 				border: 0px solid;
+				float: none;
+				width: auto;
+				text-align: center;
+				padding: 0.5em; 
 			}
 
 
 			nav li {
-			display: block; 
+			display: inline;
+padding: 0.25em 0.75em;
 			margin: 0; 
 			border: solid 2px #330000; 
 			}
