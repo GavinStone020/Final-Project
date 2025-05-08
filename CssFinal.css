@@ -229,6 +229,7 @@
 				border: 2px solid;
 				background-color: #B1C381;
 				color: #FFFFFF; 
+			}
 			nav {
 				grid-column: 1 / span 12;
 				font-size: 1em;
@@ -256,4 +257,4 @@ padding: 0.25em 0.75em;
 					grid-row: 1 / 2;
 										
 				}
-			}
+			
