@@ -233,9 +233,16 @@
 				grid-column: 1 / span 12;
 				font-size: 1em;
 				grid-row: 1 / 2; 
-								padding: 0px;
+				padding: 0px;
 				padding-top: 0px;
 				border: 0px solid;
+			}
+
+
+			nav li {
+			display: block; 
+			margin: 0; 
+			border: solid 2px #330000; 
 			}
 				#n1 {
 				grid-row: 1 / 2; 
