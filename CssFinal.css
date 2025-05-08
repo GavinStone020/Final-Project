@@ -234,21 +234,14 @@
 				grid-column: 1 / span 12;
 				font-size: 1em;
 				grid-row: 1 / 2; 
-				padding: 0px;
-				padding-top: 0px;
-				border: 0px solid;
-				float: none;
-				width: auto;
-				text-align: center;
-				padding: 0.5em; 
 			}
-
+			br {
+			display: none;
+			}
 
 			nav li {
 			display: inline;
-padding: 0.25em 0.75em;
-			margin: 0; 
-			border: solid 2px #330000; 
+			text-align: center;
 			}
 				#n1 {
 				grid-row: 1 / 2; 
