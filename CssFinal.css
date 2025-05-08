@@ -238,6 +238,9 @@
 			br {
 			display: none;
 			}
+			hr {
+			display: none;
+			}
 
 			nav li {
 			display: inline;
