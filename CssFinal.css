@@ -235,8 +235,8 @@
 				font-size: 1em;
 				grid-row: 1 / 2; 
 			}
-			br {
-			display: none;
+			div br {
+			display: inline;
 			}
 			hr {
 			display: none;
