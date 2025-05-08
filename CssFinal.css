@@ -216,17 +216,9 @@
 			}
 			nav a {
 			text-decoration: none;
-			position: static;
+			position: relative;
 			}
-			nav a:link { 
-			color: #00664D;
-			}
-			nav a:visited {
-			color: #7A7A52;
-			}
-			nav a:hover {
-			color: #000000;	
-			}
+			
 			header {
 				
 				grid-row: 2 / 3; 
@@ -241,6 +233,9 @@
 				grid-column: 1 / span 12;
 				font-size: 1em;
 				grid-row: 1 / 2; 
+								padding: 0px;
+				padding-top: 0px;
+				border: 0px solid;
 			}
 				#n1 {
 				grid-row: 1 / 2; 
