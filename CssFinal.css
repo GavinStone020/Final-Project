@@ -248,6 +248,10 @@
 					padding: 0;
 										
 				}
+				iframe {
+				width: 1em;
+				height: 1em;
+				}
 				img {
 				display: none;
 				}
