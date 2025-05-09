@@ -216,9 +216,7 @@
   				flex-direction: column;
 			}
 
-				nav {
-				display: inline;	
-				}
+
 				#n1 {
 			grid-column: 6 / span 6;
 				font-size: 1.2em;
@@ -239,7 +237,7 @@
 				border: 2px solid;}
 
 				div br {
-				display: inline;
+				display: none;
 				}
 
 							nav {
