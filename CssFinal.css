@@ -211,6 +211,7 @@
 			nav a {
 				position: relative;
 			}
+				nav ul {padding: 0em;}
 				footer {
 				grid-column: 1 / span 6;
 			}
