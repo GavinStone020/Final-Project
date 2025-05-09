@@ -208,7 +208,10 @@
 				border: 2px solid;}
 
 			@media only screen and (max-width: 37.5em){
-			nav a {
+			nav li {
+			display: inline-block;
+			}
+				nav a {
 				position: relative;
 				padding: 0;
 				  margin: 0;
