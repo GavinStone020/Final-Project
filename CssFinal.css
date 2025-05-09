@@ -265,11 +265,11 @@
 				#s3 {grid-row: 3 / 4; 
 				grid-column: 6 / span 6;
 				    }
-				#s4 {grid-row: 1 / 2; 
+				#s4 {grid-row: 2 / 3; 
 				grid-column: 1 / span 11;}
-				#s5 {grid-row: 2 / 3; 
+				#s5 {grid-row: 3 / 4; 
 				grid-column: 1 / span 11;}
-				#s6 {grid-row: 3 / 4; 
+				#s6 {grid-row: 4 / 5; 
 				grid-column: 1 / span 11;}
 			}
 			
