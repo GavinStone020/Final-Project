@@ -208,7 +208,10 @@
 				border: 2px solid;}
 
 			@media only screen and (max-width: 37.5em){
-			footer {
+			nav a {
+				position: relative;
+			}
+				footer {
 				grid-column: 1 / span 6;
 			}
 				#n1 {
