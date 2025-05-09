@@ -217,6 +217,9 @@
 				footer {
 				grid-column: 1 / span 6;
 			}
+				nav {
+				display: inline;	
+				}
 				#n1 {
 			grid-column: 6 / span 6;
 				font-size: 1.2em;
