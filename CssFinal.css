@@ -248,6 +248,9 @@
 					padding: 0;
 										
 				}
+				img {
+				display: none;
+				}
 				header {
 				
 				grid-row: 1 / 2; 
