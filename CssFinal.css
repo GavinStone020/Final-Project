@@ -219,6 +219,12 @@
 				font-size: 1.2em;
 				grid-row: 5 / 6; 
 			}
+				div br {
+				display: inline;
+				}
+				div br {
+				display: inline;
+				}
 							nav {
 				
 				grid-column: 1 / span 6;
