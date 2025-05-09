@@ -220,11 +220,9 @@
 				grid-row: 5 / 6; 
 			}
 				div br {
-				display: none;
-				}
-				div br {
 				display: inline;
 				}
+
 							nav {
 				
 				grid-column: 1 / span 6;
