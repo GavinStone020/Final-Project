@@ -248,6 +248,10 @@
 					padding: 0;
 										
 				}
+				footer small {
+  width: 50%;
+    height: 50%; 
+				}
 				header {
 				
 				grid-row: 1 / 2; 
