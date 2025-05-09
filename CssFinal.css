@@ -211,8 +211,10 @@
 			nav a {
 				position: relative;
 			}
-				nav ul {padding: 0em;
-				       display: inline;
+				nav ul {padding: 0;
+				  margin: 0;
+  				display: flex;
+  				flex-direction: column;
 				       }
 				nav {
 				display: inline;	
