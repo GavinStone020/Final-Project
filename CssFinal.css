@@ -208,49 +208,5 @@
 				border: 2px solid;}
 
 			@media only screen and (max-width: 37.5em){
-			nav ul {padding: 0em; 
-
-			float: none; 
- 
-			list-style: none; 
 			}
-			nav a {
-			text-decoration: none;
-			position: relative;
-			}
-			
-			header {
-				
-				grid-row: 2 / 3; 
-				grid-column: 1 / span 12;
-				background-color: #a6f21e; 
-				padding: 10px;
-				padding-top: 1px;
-				border: 2px solid;
-				background-color: #B1C381;
-				color: #FFFFFF; 
-			}
-			nav {
-				grid-column: 1 / span 12;
-				font-size: 1em;
-				grid-row: 1 / 2; 
-			}
-			div br {
-			display: inline;
-			}
-			hr {
-			display: none;
-			}
-
-			nav li {
-			display: inline;
-			text-align: center;
-			}
-				#n1 {
-				grid-row: 1 / 2; 
-				}
-				#n2 {
-					grid-row: 1 / 2;
-										
-				}
 			
