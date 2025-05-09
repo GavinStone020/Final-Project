@@ -211,7 +211,7 @@
 			footer {
 				grid-column: 1 / span 6;
 			}
-				.n1 {
+				#n1 {
 			grid-column: 6 / span 6;
 				font-size: 1.2em;
 				grid-row: 5 / 6; 
