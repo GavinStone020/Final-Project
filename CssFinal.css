@@ -229,20 +229,20 @@
 				
 				nav {
 				background: linear-gradient(#FFFFFF, #F6F7C4);
-				grid-column: 7 / span 4;
+				grid-column: 7 / span 5;
 				font-size: 1em;
 				border: 2px solid;
 				
 					margin: 0;
 					padding: 0;}
 				#n1 {
-				grid-row: 4 / 13; 
+				grid-row: 4 / 12; 
 					
 					margin: 0;
 					padding: 0;
 				}
 				#n2 {
-					grid-row: 11 / 13;
+					grid-row: 11 / 12;
 					
 					margin: 0;
 					padding: 0;
